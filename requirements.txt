@@ -116,13 +116,6 @@ stack-data==0.6.2
 statsmodels==0.13.5
 stocknews==0.9.11
 tenacity==8.2.2
-tensorboard==2.12.1
-tensorboard-data-server==0.7.0
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.12.0
-tensorflow-estimator==2.12.0
-tensorflow-intel==2.12.0
-tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.2.0
 terminado==0.17.1
 tinycss2==1.2.1
@@ -133,10 +126,5 @@ tzlocal==4.3
 urllib3==1.26.15
 validators==0.20.0
 virtualenv-clone==0.5.7
-watchdog==3.0.0
-wcwidth==0.2.5
-websocket-client==1.5.1
-Werkzeug==2.2.3
-wrapt==1.14.1
 y-py==0.5.9
 ypy-websocket==0.8.2
