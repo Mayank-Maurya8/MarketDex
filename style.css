@@ -1,0 +1,99 @@
+/* .css-1cypcdb{
+
+    background-color: #dad0d4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    padding: auto;
+        grid-row: inherit;
+    color: black;
+}
+/* 
+body {
+    margin: 0px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    color: rgb(250, 250, 250);
+    background-color: rgb(14, 17, 23);
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(255, 4, 4, 0);
+    -webkit-font-smoothing: auto;
+}
+
+
+
+.css-1n76uvr {
+    width: 2000px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.css-uf99v8{
+    display:flexbox;
+        width: 100%;
+            flex-direction: column;
+        overflow: auto;
+        -webkit-box-align: center;
+        align-items: center;
+}
+
+.css-1544g2n h1{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.css-q8sbsg p {
+    color: black;
+    word-break: break-word;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+
+.css-uf99v8 {
+    color: black;
+    background-color: #dad0d4;
+    display: flexbox;
+    width: 100%;
+    flex-direction: column;
+    overflow: auto;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-1avcm0n {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 2.875rem;
+    background: #cec0c5;
+    outline: none;
+    z-index: 999990;
+    display: block;
+}
+
+.css-10trblm {
+    color: black;
+    text-align: center;
+    -webkit-text-size-adjust: auto;
+} */ 
+
+.css-10trblm {
+    text-align: center;
+    -webkit-text-size-adjust: auto;
+}
+.css-1y4p8pa{
+    width: 100%;
+        padding: 6rem 1rem 10rem;
+        max-width: 100rem;
+}
+
+.js-plotly-plot .plotly .main-svg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+}
