@@ -102,3 +102,4 @@ urllib3==1.26.15
 stocknews==0.9.11
 y-py==0.5.9
 ypy-websocket==0.8.2
+yfinance
