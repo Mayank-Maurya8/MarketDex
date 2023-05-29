@@ -1,7 +1,5 @@
 # Modules
 from stocknews import StockNews
-import tkinter
-
 import pyrebase
 import streamlit as st
 from datetime import date
